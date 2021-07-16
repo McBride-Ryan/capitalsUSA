@@ -1,4 +1,4 @@
-##USA Capitol Locator
+# USA Capitol Locator
 Description: This project will show you the exact location of every capital in the US. Except Alaska and Hawaii.
 
 Functionality: To operate this application, you will need to a MapBox API Token. Once you have one, simply click the button at the top left hand corner of the screen.
