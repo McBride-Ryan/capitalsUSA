@@ -55,7 +55,7 @@ const busStops = [
 
 // Access Token
 mapboxgl.accessToken =
-  'pk.eyJ1IjoicnlhbWNiMjAiLCJhIjoiY2tyMjhlanhwMjlnMDJ1bDN2ZXdhamI2dyJ9.kydHAEyp8O8vbzUtXkYlPg';
+  'pk.eyJ1IjoicnlhbWNiMjAiLCJhIjoiY2tybTl4djhtMjR5czJucDYyNnJlN3BrZiJ9.xvLO_XmZtG_mLnCfYF6Vrg';
   //TOKEN GOES BELOW...
 
 
