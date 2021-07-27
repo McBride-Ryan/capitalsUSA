@@ -51,11 +51,11 @@ const busStops = [
 [-81.612328, 38.336246],//WV
 [-89.384445, 43.074684],//WIS
 [-104.820236, 41.140259],//WY
-
 ];
 
 // Access Token
-mapboxgl.accessToken = 'pk.eyJ1IjoicnlhbWNiMjAiLCJhIjoiY2tyMjhlanhwMjlnMDJ1bDN2ZXdhamI2dyJ9.kydHAEyp8O8vbzUtXkYlPg';
+mapboxgl.accessToken =
+  'pk.eyJ1IjoicnlhbWNiMjAiLCJhIjoiY2tyMjhlanhwMjlnMDJ1bDN2ZXdhamI2dyJ9.kydHAEyp8O8vbzUtXkYlPg';
   //TOKEN GOES BELOW...
 
 
